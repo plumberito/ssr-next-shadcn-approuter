@@ -1,3 +1,4 @@
+import "../../../sentry.client.config";
 import type { Metadata } from 'next'
 import './globals.css'
 
